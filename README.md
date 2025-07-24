@@ -6,6 +6,8 @@ This project focuses on predicting customer churn for a bank using machine learn
 
 ## 📁 Folder Structure
 
+```
+
 
 Churn-Prediction-Project/
 │
@@ -24,7 +26,7 @@ Churn-Prediction-Project/
 ├── 📄 app.py                             # Streamlit web app
 └── 📄 README.md                          # Project description
  
-
+```
 
 ---
 
